@@ -1,5 +1,5 @@
-x = 55
-y = 25
+x = 12
+y = 6
 
 if x > y:
     print("x je vece od y")
